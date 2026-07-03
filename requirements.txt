@@ -1,1 +1,5 @@
-fastapi uvicorn pydantic openai python-dotenv
+fastapi 
+uvicorn 
+pydantic 
+openai 
+python-dotenv
