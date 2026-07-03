@@ -28,7 +28,7 @@ BOT_URL = "http://127.0.0.1:8080"
 LLM_PROVIDER = "gemini"
 
 # Your API key (paste your key here)
-LLM_API_KEY = "AIzaSyDiZX1-XAkth3dV-xBuvPuMWyeiIiHT9Ns"  # <-- PUT YOUR API KEY HERE
+LLM_API_KEY = ""  # <-- PUT YOUR API KEY HERE
 
 # Model to use (leave empty for default, or specify like "gpt-4o", "claude-3-5-sonnet-20241022", etc.)
 LLM_MODEL = "gemini-2.5-flash"  # <-- Optional: specify model or leave empty for default
